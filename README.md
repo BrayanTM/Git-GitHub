@@ -1,4 +1,4 @@
-<img width="auto" height="75" alt="image" src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" /> <img width="auto" height="100" alt="image" src="https://gist.github.com/user-attachments/assets/c6f202c0-1e7c-4712-8e21-f441be1fa18"/>
+<img width="auto" height="75" alt="image" src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" />
 # Comandos de Git
 [Documentación Oficial de Git](https://git-scm.com/docs)
 ## Verificación de Git
