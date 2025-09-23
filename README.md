@@ -1,6 +1,9 @@
 <img width="auto" height="75" alt="image" src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" />
+
 # Comandos de Git
+
 [Documentación Oficial de Git](https://git-scm.com/docs)
+
 ## Verificación de Git
 `git --version`
 Indica la versión instalada de git.
