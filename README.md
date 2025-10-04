@@ -1,7 +1,6 @@
 # Guía de Comandos de Git y Configuración con GitHub
 
-Esta guía presenta los comandos más importantes de **Git** y configuraciones relacionadas con **GitHub**, con descripciones claras y ejemplos prácticos.  
-Incluye un índice de navegación, ejemplos de uso y buenas prácticas.
+Esta guía presenta los comandos más importantes de **Git** y configuraciones relacionadas con **GitHub**, con descripciones claras y ejemplos prácticos.
 
 ---
 
